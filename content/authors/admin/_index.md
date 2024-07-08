@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Aryan Sahu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aryan
+last_name: Sahu
 
 # Status emoji
 status:
@@ -20,92 +20,57 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Final year student 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: BITS Pilani
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:aryansahu112003@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/aryan45295
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AaryanSahu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/aryansahu2003
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=Tl7rNeoAAAAJ&hl=en&authuser=3
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Large Language Models
+  - Software Engineering
+  - Quantitative Finance
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - area: B.E Computer Science
+    institution: BITS Pilani
+    date_start: 2021-10-01
+    date_end: 2025-08-15
+Experience:
+  - position: Research Intern
+    company_name: University of South Carolina & Amazon US
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Extensive literature survey on existing Model editing techniques.
+      - Develop a comprehensive pipeline to address model editing and propose new model editing techniques.
+  - position: Research Intern
+    company_name: IIT Patna
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-05-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop a multi-modal dataset of indic languages from news articles.
+      - Perform different NLP tasks on the dataset to setup a benchmark for indic languages.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,42 +78,24 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+      - name: C++
+      - name: Java
+      - name: Go   
+      - name: Machine Learning
       - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: LLMs
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+      - name: Music
+      - name: Trekking
+      - name: Cricket,Chess
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+  - name: Hindi
+  - name: Odia
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -182,5 +129,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a final year student at BITS Pilani,Goa Campus,India.My primary interests lies in Machine Learning,LLMs and bit of Computational finance.I also enjoy doing software engineering.I am currently working on Model Editing of LLMs in collaboration with UofSC and Amazon US.In the past I have been advised by Dr Gautam Shroff and Dr Ashwin Srinivas on Auto Code Generation tasks which was doing as part of collaboration with TCS Research and APPCAIR.
